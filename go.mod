@@ -17,8 +17,8 @@ require (
 	github.com/spf13/cobra v1.5.0
 	github.com/stretchr/testify v1.8.0
 	github.com/tendermint/tendermint v0.34.20-0.20220517115723-e6f071164839
-	github.com/tharsis/ethermint v0.16.1
-	github.com/tharsis/evmos/v5 v5.0.0
+	github.com/tharsis/ethermint v0.16.2
+	github.com/tharsis/evmos/v5 v5.0.1
 	google.golang.org/grpc v1.47.0
 	gopkg.in/yaml.v3 v3.0.1
 )
